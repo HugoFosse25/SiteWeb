@@ -1,0 +1,152 @@
+  h1 {
+    color:rgb(255, 145, 0);
+    text-align: center;
+    font-size: 60px;
+    }  
+
+body {
+    background-color: rgb(61, 59, 59);
+    font-family:arial, sans-serif;
+}
+#TitreHDP{
+    float: right;
+    align-items: left;
+    height: 250px;
+    width: 30%;
+    background-color: rgb(66, 64, 64);
+    border: solid rgb(255, 145, 0);
+}
+#SousHDP{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 22px;
+}
+#Menu{
+    float: left;
+    height: 540px;
+    width: 15%;
+    background-color: rgb(109, 103, 103);
+    text-align: center;
+    border:2px;
+    border: solid black;
+    padding-bottom: 50px;
+}
+a {
+    color: rgb(231, 137, 15);
+}
+.Titrepage{
+    float: left;
+    height:274px;
+    width: 45%;
+    text-align: center;
+    color: rgb(255, 145, 0);
+    font-size: 75px;
+    padding-bottom: 30px;
+
+}
+#Bienvenue{
+    float: left;
+    text-align:center;
+    color:whitesmoke;
+    height: 100px;
+    width: 45%;
+    font-size: 25px;
+}
+.Présentation{
+    float: left;
+    text-align: left;
+    color: whitesmoke;
+    height:168px;
+    width: 55%;
+    padding-left: 30px;
+}
+#Prés{
+    font-size: 25px;
+}
+
+
+.boutonmenu {
+    margin: 0;
+  }
+  
+  ul {
+    padding: 0;
+    width: 100%;
+  }
+  
+  li {
+    display: inline;
+  }
+  
+  .boutonmenu {
+    outline: none;
+    text-decoration: none;
+    display: inline-block;
+    width: 19.5%;
+    margin-right: 0.625%;
+    text-align: center;
+    line-height: 3;
+    color: black;
+    display: inline;
+  }
+  
+  li:last-child .boutonmenu {
+    margin-right: 0;
+  }
+  
+  .boutonmenu:link, .boutonmenu:visited, .boutonmenu:focus {
+    background: rgb(255, 145, 0);
+  }
+  
+  .boutonmenu:hover {     
+    background: rgb(92, 90, 90);
+  }
+  
+  .boutonmenu:active {
+    background: red;
+    color: white;
+  }
+  #Actu{
+      float: right;
+      width: 25%;
+      color: whitesmoke;
+      font-size: 25px;
+      text-align: center;
+      border: solid rgb(255, 145, 0);
+
+  }
+  #TitreActu{
+
+      color: whitesmoke;
+      font-size: 45px;
+      text-align: center;
+
+  }
+  .Contenu{
+    float: left;
+    width: 65%;
+    height: 3354px;
+    color: whitesmoke;
+    
+  }
+  h2{
+    font-weight: bold;
+    font-size: 35px;
+    color: whitesmoke;
+    text-align: center;
+  }
+  h3{
+    text-align: left;
+    font-size: 30px;
+    color: whitesmoke;
+    font-weight: normal;
+  }
+  .CatCV{
+    border: solid black;
+    width: 32%;
+    background-color: gray;
+    padding-left: 30px;
+    color: rgb(255, 145, 0);
+    margin-top: 30px;
+
+  }
