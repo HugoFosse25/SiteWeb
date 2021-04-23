@@ -12,7 +12,7 @@ $maBase=new PDO('mysql:host=192.168.64.196; dbname=Clinique; charset=utf8','Site
     <script src='main.js'></script>
 </head>
 <body>
-
+<!--Test -->
     <header>
         <h1>Polyclinique Médicale</h1>
     </header>
